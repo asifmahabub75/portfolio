@@ -1,0 +1,25 @@
+KHANDHAKAR ASIF MAHABUB
+Computer Science Student | Aspiring Software Developer
+
+PROFILE
+Computer Science and Engineering student passionate about programming,
+problem-solving, algorithms, and software development.
+
+EDUCATION
+Bachelor of Science in Computer Science and Engineering
+Daffodil International University (DIU)
+Department of Computer Science and Engineering
+Academic dates: Add your dates here
+
+SKILLS
+Programming: C, C++, Java, Python
+Web: HTML, CSS
+Core interests: Object-Oriented Programming, Data Structures,
+Problem Solving, Algorithms
+
+CONTACT
+Email: your.email@example.com
+GitHub: Add your profile URL
+LinkedIn: Add your profile URL
+
+Note: Replace the placeholder contact details and academic dates before use.

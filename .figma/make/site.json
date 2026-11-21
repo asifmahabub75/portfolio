@@ -1,0 +1,13 @@
+{
+  "description": "Explore a computer science student’s portfolio of programming skills, projects, achievements, and education, with theme controls and contact options.",
+  "icons": {
+    "icon": "favicon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
